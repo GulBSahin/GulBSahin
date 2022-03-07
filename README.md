@@ -31,12 +31,7 @@ Here are some ideas to get you started:
 <br/> -->
 ●	Blog App : ( Created web-site app with using Google Firebase, React, Javascript, HTML and CSS ) 
 <br/>
-
-
-
 https://gulsahin.com/
-
-
 <br/>
 ●	 User Id Card : ( Created web-site app with using React, Javascript, HTML and CSS.) 
 <br/>
