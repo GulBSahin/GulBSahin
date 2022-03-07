@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 <br/> -->
 ●	Blog App : ( Created web-site app with using Google Firebase, React, Javascript, HTML and CSS ) 
 <br/>
-![todo-nextjs](https://user-images.githubusercontent.com/70208660/156998401-d38be38c-f247-4d09-b9ce-d9bcdeb496c7.gif)
+
 
 
 https://gulsahin.com/
-![blog-app-react](https://user-images.githubusercontent.com/70208660/156998426-fc2377a1-3cc4-4638-922d-58887e0c0381.gif)
+
 
 <br/>
 ●	 User Id Card : ( Created web-site app with using React, Javascript, HTML and CSS.) 
